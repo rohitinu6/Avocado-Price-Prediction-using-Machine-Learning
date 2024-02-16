@@ -12,10 +12,15 @@ This project focuses on predicting the prices of avocados using various regressi
 ## Algorithms Used
 
 - Linear Regression
-- Decision Trees
+- SVR
 - Random Forest
-- Support Vector Regression (SVR)
-- Gradient Boosting
+- Gradient Boosting Models (GBM)
+- Extreme Gradient Boosting (XGBoost)
+- AdaBoostRegressor
+- Decision Tree
+- KNeighborsRegressor(KNN)
+- Artificial Neural Networks (ANN)
+- LSTM(Long Short term Memory)
 
 ## Dataset
 
