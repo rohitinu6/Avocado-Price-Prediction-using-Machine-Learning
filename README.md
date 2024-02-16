@@ -41,7 +41,42 @@ The dataset used in this project is sourced from Kaggle and includes information
 
 ## Results
 
-Include a summary of the performance of each regression algorithm and any insights gained from the analysis.
+The sequence of all the algorithms used is as follows:
+1. Linear Regression
+2. SVR
+3. Random Forest
+4. Gradient Boosting Models (GBM)
+5. Extreme Gradient Boosting (XGBoost)
+6. AdaBoostRegressor
+7. Decision Tree
+8. KNeighborsRegressor(KNN)
+9. Artificial Neural Networks (ANN)
+10. LSTM(Long Short term Memory)
+
+The **Accuracy** of all the following 10 Regression Algorithms is provided below:  
+
+![image](https://github.com/rohitinu6/Avoccado-Price-Prediction-using-Machine-Learning/assets/113301503/0ea9b7d4-627e-49f9-9215-389e6f4a72b2)
+
+The **RMSE** of all the following 10 Regression Algorithms is provided below: 
+
+![image](https://github.com/rohitinu6/Avoccado-Price-Prediction-using-Machine-Learning/assets/113301503/61db2bf3-96d4-4bb0-b9ac-cb609913681d)
+
+The **MAE** of all the following 10 Regression Algorithms is provided below: 
+
+![image](https://github.com/rohitinu6/Avoccado-Price-Prediction-using-Machine-Learning/assets/113301503/b647e514-c93d-4080-ac0d-709b36ea3948)
+
+The **MAPE** of all the following 10 Regression Algorithms is provided below: 
+
+![image](https://github.com/rohitinu6/Avoccado-Price-Prediction-using-Machine-Learning/assets/113301503/f70193db-d446-453b-88f6-02fa31e74366)
+
+The **Precision** of all the following 10 Regression Algorithms is provided below: 
+
+![image](https://github.com/rohitinu6/Avoccado-Price-Prediction-using-Machine-Learning/assets/113301503/5288c25b-1986-4f50-b1b4-f85fc265d7c6)
+
+The **Recall** of all the following 10 Regression algorithms is provided below: 
+
+![image](https://github.com/rohitinu6/Avoccado-Price-Prediction-using-Machine-Learning/assets/113301503/81bb86f3-e4b7-4520-9ba3-fc9aa9cfb993)
+
 
 ## Future Work
 
