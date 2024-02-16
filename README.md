@@ -83,9 +83,16 @@ The **Recall** of all the following 10 Regression algorithms is provided below:
 - Discuss potential improvements to the model.
 - Suggestions for additional features or algorithms that could enhance performance.
 
+## Concluison
+
+- Clearly, we can see that the accuracies of the algorithms 1 and 6 are the highest.
+- Also we can see from the chart of rmse that the rmse of algorithm 1 is lower as compared to that of algorithm 6.
+- Thus we conclude that algorithm 6 i.e. AdaBoostRegressor has performed well in the given dataset.
+
+
 ## Author
 
-Your Name
+**Rohit Dubey**
 
 ## License
 
