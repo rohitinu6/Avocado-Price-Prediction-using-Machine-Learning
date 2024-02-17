@@ -80,9 +80,7 @@ The **Recall** of all the following 10 Regression algorithms is provided below:
 
 ## Future Work
 
-- Discuss potential improvements to the model.
-- Suggestions for additional features or algorithms that could enhance performance.
-
+- 
 ## Conclusion
 
 - Clearly, we can see that the accuracies of the algorithms 1 and 6 are the highest.
