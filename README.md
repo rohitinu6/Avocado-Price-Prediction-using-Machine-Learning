@@ -81,6 +81,7 @@ The **Recall** of all the following 10 Regression algorithms is provided below:
 ## Future Work
 
 - This project is a basic comparison of few selected regression algorithms on an avocado dataset.
+- We can also create a dashboard on the same dataset to create a visualization of sales data.
  
 ## Conclusion
 
