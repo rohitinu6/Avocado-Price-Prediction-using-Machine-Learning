@@ -80,7 +80,8 @@ The **Recall** of all the following 10 Regression algorithms is provided below:
 
 ## Future Work
 
-- 
+- This project is a basic comparison of few selected regression algorithms on an avocado dataset.
+ 
 ## Conclusion
 
 - Clearly, we can see that the accuracies of the algorithms 1 and 6 are the highest.
